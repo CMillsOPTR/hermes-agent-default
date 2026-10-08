@@ -1,0 +1,11 @@
+ui_meta:
+  hermes-bots:
+    shape: squircle
+    color: '#8b5cf6'
+    imageKind: shape
+    title: B.T
+    custom: true
+    chat: 20260819_105954_ce3c4c
+description: He will be assisting in development and using an additional agent to
+  QA check his work before returning the reviewed project to me
+description_auto: false

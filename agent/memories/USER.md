@@ -1,0 +1,7 @@
+Cody works at a travel company and is developing into a systems architect/cybersecurity engineering role. Their core environment includes Google Workspace, Cognito Forms, Zendesk, Freshservice, ClickUp, WeTravel, Wix, HubSpot, NinjaOne, and related SaaS tools. They want help maintaining visibility into IAM, cybersecurity risks, system ownership, integrations, dependencies, technical debt, manual workarounds, scalability, reliability, documentation, and repeatable technical processes. They prefer prioritized recommendations with business value, options/tradeoffs, owners, target dates, and actionable next steps.
+§
+User calls the assistant Arbiter.
+§
+Cody is a Systems Architect who frequently creates internal IT, cybersecurity-awareness, onboarding, and customer-service training materials. Cody prefers concise, practical checklists and training decks with clear role ownership, plain language, speaker notes, usable visual formatting, and artifacts ready for final review rather than overlong explanations.
+§
+Cody prefers concise management/annual-review summaries that retain specific project and feature names, separate completed work from active initiatives, include career achievements, exclude unsupported claims, and are delivered as validated DOCX files suitable for Google Docs.
